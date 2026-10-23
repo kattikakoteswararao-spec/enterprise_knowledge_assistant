@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pymupdf
+python-docx
+sentence-transformers
+faiss-cpu
+numpy
+pytest
+httpx
+scikit-learn
